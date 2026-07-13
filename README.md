@@ -42,4 +42,4 @@ APIs REST con Flask, autenticación JWT, base de datos relacional y lógica de n
 ### Stack tecnológico moderno
 Usamos las herramientas correctas para cada proyecto, sin sobre-ingeniería, sin comprometer calidad.
 
-```
+
